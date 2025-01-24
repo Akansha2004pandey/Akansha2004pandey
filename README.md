@@ -74,7 +74,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akansha2004pandey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akansha2004pandey&theme=tokyonight" alt="GitHub Streak" />
+  
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akansha2004pandey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
