@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**.
 - 🌱 I’m learning **Machine Learning** and exploring **TypeScript**.
 - 🤝 I’m open to collaborations on **Open Source Projects**.
-- 📫 Reach me at **akanshaoptimist@gmail.com** (Replace with your email).
+- 📫 Reach me at **akanshaoptimist@gmail.com** .
 - ⚡ Fun fact: I enjoy solving **LeetCode challenges** and diving deep into **algorithms**.
 
 ---
